@@ -17,7 +17,7 @@ This SAS project analyzes telecom customer churn with a focus on the impact of s
 - The updated_telecom_customer_churn.csv dataset placed in the appropriate directory.
 #### Running the Script
 - Data Importation: Ensure the dataset path in the PROC IMPORT statement matches your dataset location.
-('DATAFILE="/path/to/your/updated_telecom_customer_churn.csv"')
+(' DATAFILE="/path/to/your/updated_telecom_customer_churn.csv" ')
 - Open FullCode.sas in the SAS environment.
 - Run the entire script to perform the analysis. Alternatively, run specific sections to focus on particular stages of the analysis.
 
